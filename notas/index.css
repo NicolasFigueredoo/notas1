@@ -1,0 +1,49 @@
+body{
+    background-color: #444;
+}
+#notas_echas{
+    margin-left: 300px;
+    margin-top: 20px;
+    background-color:white;
+    width: 700px;
+    height: 300px;
+    line-height: 20px;
+    overflow: hidden;   
+    border: 2px solid black;  
+}
+.title{
+text-align: center;   
+ color: white;
+}
+#text{
+    display: grid;
+
+}
+#textarea{
+    border: 2px solid black;  
+    margin-top: 20px;
+    margin-left: 400px;
+    height: 200px;
+    width: 500px;
+    border-radius: 2%;
+}
+#boton_anotar{
+    margin-left: auto;
+    margin-right: auto;
+}
+#texttitle{
+    margin-left: 580px;
+}
+#notatitulo{
+text-align: center;
+}
+#texto{
+    padding: 10px;
+}
+
+#borrarnota{
+    margin-left: 580px;
+
+}
+
+
